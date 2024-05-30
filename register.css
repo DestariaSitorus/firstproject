@@ -1,0 +1,31 @@
+body{
+    background:rgb(243, 154, 243);
+}
+h2{
+    text-align: center;
+    font-weight: 400px;
+}
+.kotak_form{
+    width:400px;
+    background: rgb(244, 241, 245);
+    margin: 80px auto;
+	padding: 30px 20px;
+    border-radius: 5px;
+}
+.form_register{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+.tombol_register{
+	background: #f574ca;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
